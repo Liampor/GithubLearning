@@ -9,4 +9,8 @@ some thing falsh
 
 some Fix A
 
-master 日
+<<<<<<< HEAD
+日
+=======
+日
+>>>>>>> add ri

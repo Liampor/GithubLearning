@@ -1,16 +1,8 @@
 # GithubLearning
 Used to learn Github
 
-On master add something before fix merge
-test branches
-1111
-33 stupid
-some thing falsh
+add 111111
 
-some Fix A
+Add 222222
 
-<<<<<<< HEAD
-日
-=======
-日
->>>>>>> add ri
+Add 333333
